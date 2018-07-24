@@ -5,3 +5,5 @@ Git tracks changes of files.
 Creating a new branch is quick AND simple.
 add merge.
 zhong tu master.
+a half.
+new dev stash.
